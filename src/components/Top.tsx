@@ -35,7 +35,7 @@ const Top = () => {
         
         ' 
         >
-          Take your gaming to the next level with Join the Game! Our store offers an unbeatable selection of video games for all platforms, so you can find exactly what you're looking for. With our knowledgeable staff and industry-leading prices, we provide a top-notch experience that will keep you coming back for more. Get in on the action today - Join the Game!</p>
+          Take your gaming to the next level with Join the Game! Our store offers an unbeatable selection of video games for all platforms, so you can find exactly what youre looking for. With our knowledgeable staff and industry-leading prices, we provide a top-notch experience that will keep you coming back for more. Get in on the action today - Join the Game!</p>
 
         </div>
 
