@@ -1,4 +1,5 @@
 import NavbarItem from "./NavBarItem";
+import Image from 'next/image'
 
 const Navbar = () => {
   return (
@@ -15,7 +16,7 @@ const Navbar = () => {
           duration-500
           w-[50%]
           '>
-        <img className="h-8 lg:h-20" src="/images/logo.png" alt="Logo" />
+        <Image className="h-8 w-8 lg:h-20 lg:w-20" src="/images/logo.png"  width={297} height={241} alt="Logo" />
         <div
         className='
         flex
